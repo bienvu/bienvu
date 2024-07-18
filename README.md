@@ -28,7 +28,7 @@ Feel free to let me know if this aligns with your vision or if there are any oth
 - Promotion oppurtunities
 - Collaborations to build something great
 
-If you'd love to talk or need help, visit me at [hassib.co](https://hassib.co) or [DM me on LinkedIn](https://linkedin.com/in/hassibmoddasser).
+If you'd love to talk or need help, visit me on [LinkedIn](https://www.linkedin.com/in/bienvt).
 
 ## Tech Stack & Tools
 
