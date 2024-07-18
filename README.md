@@ -8,10 +8,9 @@
 
 # Greetings!
 
-Hi There 👋,
+Hi There 👋, Please call me **Bien** 😄
 
-Call me Bien 😄
-I am a skilled web developer specializing in PHP and JavaScript, with expertise in ReactJS, NextJS, VueJS, and NodeJS and CMS like Drupal, Wordpress and SHopify. My focus is on creating high-quality web applications with excellent user experiences.
+I am a skilled web developer specializing in PHP and JavaScript, with expertise in ReactJS, NextJS, VueJS, and NodeJS and CMS like Drupal, Wordpress and Shopify. My focus is on creating high-quality web applications with excellent user experiences.
 
 I have a keen interest in UX/UI design, Blockchain technology, Docker, and modern JavaScript frameworks. Outside of work, I enjoy reading, running, and traveling, which help me stay inspired and innovative.
 
