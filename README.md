@@ -6,9 +6,14 @@
 
 [![](https://visitcount.itsvg.in/api?id=hassibmoddasser&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-# Greetings, I'm Bienvu
+# Greetings!
 
-Experienced Web Developer with 8 years of expertise in designing and developing customer-focused websites. My skill set includes proficiency in various programming languages such as PHP and JavaScript frameworks including React.js and Next.js, along with extensive experience in CMS platforms like Drupal, WordPress, and Shopify.
+Hi There 👋,
+
+Happy to share
+
+I'm Bienvu, An Experienced Web Developer customer-focused websites.
+My skill set includes proficiency in various programming languages such as PHP and JavaScript including React.js and Next.js, along with extensive experience in CMS platforms like Drupal, WordPress, and Shopify.
 
 In addition to my professional skills, I am a passionate blogger, photographer, and runner
 
