@@ -10,16 +10,10 @@
 
 Hi There 👋,
 
-Happy to share
+Call me Bien 😄
+I am a skilled web developer specializing in PHP and JavaScript, with expertise in ReactJS, NextJS, VueJS, and NodeJS and CMS like Drupal, Wordpress and SHopify. My focus is on creating high-quality web applications with excellent user experiences.
 
-I'm Bienvu, An Experienced Web Developer customer-focused websites.
-My skill set includes proficiency in various programming languages such as PHP and JavaScript including React.js and Next.js, along with extensive experience in CMS platforms like Drupal, WordPress, and Shopify.
-
-In addition to my professional skills, I am a passionate blogger, photographer, and runner
-
-In my leisure time, I enjoy running, reading books, and traveling.
-
-Interested in UXUI, Blockchain, Docker and Javascript Framework.
+I have a keen interest in UX/UI design, Blockchain technology, Docker, and modern JavaScript frameworks. Outside of work, I enjoy reading, running, and traveling, which help me stay inspired and innovative.
 
 Feel free to let me know if this aligns with your vision or if there are any other changes you'd like!
 
